@@ -47,7 +47,7 @@ You can install the required libraries using the following command:
 ```bash
 pip install tensorflow keras numpy matplotlib scikit-learn opencv-python pandas streamlit
 ```
-##Usage
+## Usage
 
 To run this run the following command in the terminal:
 
